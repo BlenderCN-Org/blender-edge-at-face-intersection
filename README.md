@@ -36,3 +36,5 @@ Using a boolean modifier kinda works. Select the first plane and go to Modifies 
 Go to Modifiers > Add Modifier > Boolean. Click the picker next to the Object field and select the other plane.
 Do the same for the other plane. Join the planes together getting a single mesh with four faces.
 This will not work if the faces' edge loops do not themselves intersect.
+
+## To-Do
